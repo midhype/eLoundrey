@@ -31,7 +31,7 @@ To run tests, run the following command
 
 To add tables in database you need to create a database in mysql and setting database name, username and password in .env file
 
-```json
+```bash
 DB_NAME = 
 DB_USERNMAE = 
 DB_PASSWORD = 
